@@ -1,0 +1,7 @@
+{
+  "name": "sidenavtemplate",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
